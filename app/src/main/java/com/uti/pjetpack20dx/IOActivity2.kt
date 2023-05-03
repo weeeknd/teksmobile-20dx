@@ -38,7 +38,7 @@ class IOActivity2 : ComponentActivity() {
                         // Buat Input 1
                         OutlinedTextField(
                             label = {
-                                Text(text = "Isi Nilai Satu")
+                                Text(text = "Isi Nilai Berikut")
                             },
                             value = "",
                             onValueChange = {},
